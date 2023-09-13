@@ -1,6 +1,6 @@
 # Hotel_Reservation_Cancellation_Analysis_using_python
 
-#Hotel Reservation Cancellation Analysis [Python |NumPy|Pandas | Matplotlib|Seaborn]
+# Hotel Reservation Cancellation Analysis [Python |NumPy|Pandas | Matplotlib|Seaborn]
 
 
 •	Conducted in-depth analysis of cancellation rates at City Hotel and Resort Hotel to identify key trends and patterns impacting revenue generation.
